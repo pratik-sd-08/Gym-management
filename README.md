@@ -1,4 +1,4 @@
-# ForgeFit Gym SaaS — V11 React JSX Fixed
+# ForgeFit Gym SaaS 
 
 ## Critical fix
 All JSX components now explicitly import React. This fixes `ReferenceError: React is not defined` when Vite uses the classic JSX transform.
